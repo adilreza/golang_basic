@@ -5,11 +5,12 @@
 
 ```
     go run something.go
-
 ```
 ## variable declaration
 var variable_list optional_data_type;
 ```
     var i, j, k, l int;
 ```
+## Nested If else 
+* As like c++, nothing exceptional ..  > but should be followed the indentation and bracket *
 
